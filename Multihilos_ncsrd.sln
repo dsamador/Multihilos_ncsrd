@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Threading", "01_Threading\01_Threading.csproj", "{F8E9C731-27A3-4E65-B96C-C5086DDA0E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Threading_Multiples_Hilos", "02_Threading_Multiples_Hilos\02_Threading_Multiples_Hilos.csproj", "{6FC11780-26D8-4A84-9D0D-929AD0D0FF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E9C731-27A3-4E65-B96C-C5086DDA0E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E9C731-27A3-4E65-B96C-C5086DDA0E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E9C731-27A3-4E65-B96C-C5086DDA0E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E9C731-27A3-4E65-B96C-C5086DDA0E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC11780-26D8-4A84-9D0D-929AD0D0FF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC11780-26D8-4A84-9D0D-929AD0D0FF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC11780-26D8-4A84-9D0D-929AD0D0FF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC11780-26D8-4A84-9D0D-929AD0D0FF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791EDF01-AFFE-49AB-9DF1-0D3977D15A50}
+	EndGlobalSection
+EndGlobal
